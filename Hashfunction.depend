@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1710684784 source:c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\stockstruct.cpp
+	<iostream>
+	<string>
+
+1710888057 source:c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\main.cpp
+	<iostream>
+	"FileHandler.h"
+	"InputHandler.h"
+	"hashfunction.h"
+	"search.h"
+	"stockstruct.h"
+
+1710685038 c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\include\readcsv.h
+	<iostream>
+	<fstream>
+
+1710684784 c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\stockstruct.cpp
+	<iostream>
+	<string>
+
+1710685061 source:c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\src\readcsv.cpp
+	"ReadCSV.h"
+
+1710879487 c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\include\filehandler.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<string>
+	<vector>
+	"stockstruct.h"
+
+1710884960 source:c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\src\filehandler.cpp
+	"FileHandler.h"
+
+1710870689 c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\include\inputhandler.h
+	"FileHandler.h"
+	"hashfunction.h"
+	"searchstock.h"
+	"stockstruct.h"
+	<iostream>
+	<sstream>
+	<ctime>
+
+1710887939 source:c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\src\inputhandler.cpp
+	"InputHandler.h"
+
+1710762506 c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\include\stockstruct.h
+	<iostream>
+	<string>
+
+1710759371 source:c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\src\search.cpp
+	"search.h"
+
+1710761863 c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\include\search.h
+
+1710876670 source:c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\src\hashfunction.cpp
+	"hashfunction.h"
+	<string>
+
+1710768531 c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\include\hashfunction.h
+	<iostream>
+	<string>
+	<cmath>
+	<stockstruct.h>
+
+1710866089 c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\include\searchstock.h
+	<string>
+	<iostream>
+	"stockstruct.h"
+	"hashfunction.h"
+
+1710880879 source:c:\users\chris\onedrive\dokumente\z_technnikum_s2\algorithmen\ss2024-hashfunction\src\searchstock.cpp
+	"searchstock.h"
+
